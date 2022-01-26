@@ -2,13 +2,13 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package studlist extends Student;
+package studlist;
 
 /**
  *
  * @author Rabjeet singh
  */
-public class PartTimeStudent 
+public class PartTimeStudent extends Student 
 {
     private int numOfCourses;
 
